@@ -1,4 +1,4 @@
-HI There
+**Greetings!** 👋
 
 👨‍💻 **MERN Stack Developer | AI/ML Enthusiast | Cybersecurity Enthusiast 🛡️**
 
