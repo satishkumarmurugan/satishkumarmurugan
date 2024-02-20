@@ -1,4 +1,4 @@
-**<h1 style="font-size: 30px;"Greetings! 👋</h1>**
+<h1 style="font-size: 30px;">Greetings! 👋</h1>
 
 👨‍💻 **MERN Stack Developer | AI/ML Enthusiast | Cybersecurity Enthusiast 🛡️**
 
